@@ -3,7 +3,6 @@ package com.baikemy.apgc.domain.user;
 import java.util.Date;
 import java.util.List;
 
-//555555555
 public class User {
     private Long id;
 
