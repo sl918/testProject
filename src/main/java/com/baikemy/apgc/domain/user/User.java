@@ -2,7 +2,6 @@ package com.baikemy.apgc.domain.user;
 
 import java.util.Date;
 import java.util.List;
-//22222222222222
 public class User {
     private Long id;
 
