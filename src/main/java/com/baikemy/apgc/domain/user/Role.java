@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class Role {
     private Long id;
-
+//%%%%%
     private String name;
 
     private String type;
